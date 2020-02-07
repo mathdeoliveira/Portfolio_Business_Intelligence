@@ -7,7 +7,8 @@
 
 
 
-**Tecnologias:** MicroStrategy, Pentaho, Informatica PowerCenter, Microsoft PowerBI.
+**Tecnologias:** * **Viz**: MicroStrategy, Microsoft PowerBI.
+                 * **ETL**: Pentaho, Informatica PowerCenter
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-de-oliveira-alves/)
