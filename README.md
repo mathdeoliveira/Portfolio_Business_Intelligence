@@ -16,5 +16,5 @@
 * [Medium](https://medium.com/@matheusdeoliveiraalves)
 ---
 **Projetos:**
-* **Como criei um projeto de Business Intelligence baseado nas minhas finanças pessoais (Parte 1):** http://bit.ly/2upov2V
-* **Como criei um projeto de Business Intelligence baseado nas minhas finanças pessoais (Parte 2):** http://bit.ly/38UDIb6
+* **Como criei um projeto de Business Intelligence baseado nas minhas finanças pessoais (Parte 1):** http://bit.ly/39UoD9z
+* **Como criei um projeto de Business Intelligence baseado nas minhas finanças pessoais (Parte 2):** http://bit.ly/37QfeP5
