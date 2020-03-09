@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/author-mathdeoliveira-lightgrey)
-![](https://img.shields.io/badge/tool-pentaho-red)
-![](https://img.shields.io/badge/tool-powercenter-red)
-![](https://img.shields.io/badge/tool-powerbi-red)
-![](https://img.shields.io/badge/tool-microstrategy-red)
+[![](https://img.shields.io/badge/author-mathdeoliveira-lightgrey)](https://www.linkedin.com/in/matheus-de-oliveira-alves/)
+[![](https://img.shields.io/badge/tool-pentaho-red)](https://community.hitachivantara.com/s/pentaho)
+[![](https://img.shields.io/badge/tool-powercenter-red)](https://www.informatica.com/br/products/data-integration/powercenter.html)
+[![](https://img.shields.io/badge/tool-powerbi-red)](https://powerbi.microsoft.com/)
+[![](https://img.shields.io/badge/tool-microstrategy-red)](https://www.microstrategy.com/)
 
 # Matheus de Oliveira Alves
 
