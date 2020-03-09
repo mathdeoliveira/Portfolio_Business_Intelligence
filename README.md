@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/author-mathdeoliveira-lightgrey)
 ![](https://img.shields.io/badge/tool-pentaho-red)
-![](https://img.shields.io/badge/tool-powercenter-brightgreen)
-![](https://img.shields.io/badge/tool-powerbi-yellow)
+![](https://img.shields.io/badge/tool-powercenter-red)
+![](https://img.shields.io/badge/tool-powerbi-red)
 ![](https://img.shields.io/badge/tool-microstrategy-red)
 
 # Matheus de Oliveira Alves
